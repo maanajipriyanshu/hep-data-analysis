@@ -53,7 +53,7 @@ After cleaning and selecting events, the energy and momentum distributions show 
 
 ## Project Structure
 
-'''
+```
 hep-data-analysis/
 ├── data/
 │   ├── raw/
@@ -64,4 +64,4 @@ hep-data-analysis/
 ├── README.md
 └── requirements.txt
 
-'''
+```
