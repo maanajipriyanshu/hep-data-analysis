@@ -49,7 +49,7 @@ The full analysis is contained in a single Jupyter notebook and can be run from 
 
 ## Results and Observations
 
-After cleaning and selecting events, the energy and momentum distributions show clear and expected differences between particle types. Simulated detector resolution effects introduce a broadening of the energy measurements while preserving the overall distribution trends. These behaviors are consistent with what is typically observed in experimental particle physics analyses.
+After cleaning and selecting events, the energy and momentum distributions show clear and expected differences between particle types. Simulated detector resolution effects introduce a broadening of the energy measurements while preserving the overall distribution trends. These behaviors are consistent with what is typically observed in experimental particle physics analysis.
 
 ## Project Structure
 
