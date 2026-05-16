@@ -3,7 +3,7 @@
 
 This project explores a small but realistic data analysis workflow inspired by high-energy physics experiments. The goal is to work with event-based particle collision data and practice the kind of data cleaning, selection, and statistical analysis that is common in experimental physics. The focus is on clarity, correctness, and reproducibility rather than complex models.
 
-## Dataset
+## Dataset 
 
 The dataset used here is a synthetic particle event dataset designed to resemble detector output from particle physics experiments. Each event contains measurements such as energy, momentum components, particle charge, and particle type. To reflect real experimental conditions, the data includes missing values, unphysical measurements, and measurement noise similar to what is typically encountered in detector data.
 
